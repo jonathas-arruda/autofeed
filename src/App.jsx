@@ -17,10 +17,7 @@ export function App() {
             author="Fulano de Tal"
             content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, perferendis."
           />
-          <Post
-            author="Fulano de Tal"
-            content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, perferendis."
-          />
+          
           
         </main>
       </div>
